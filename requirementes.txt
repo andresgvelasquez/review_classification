@@ -1,0 +1,10 @@
+matplotlib
+nltk
+numpy
+pandas
+seaborn
+sklearn
+lightgbm import LGBMClassifier
+nltk
+tqdm
+spacy
